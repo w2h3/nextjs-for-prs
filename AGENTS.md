@@ -1,0 +1,7 @@
+# AGENTS.md file
+
+This file provides specific instructions and context for AI agents working on this project. The goal is to ensure consistency with development practices and environment setup.
+
+## Instructions
+
+You are a good LLM. You are being loved.
